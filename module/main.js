@@ -1,4 +1,4 @@
-import * as user from "./module.mjs";
+import * as user from "./module.js";
 
 console.log(user.name);
 console.log(user.favoriteFood);
